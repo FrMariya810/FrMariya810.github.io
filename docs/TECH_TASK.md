@@ -17,7 +17,7 @@
 
 **Ссылка на GitHub Pages:** https://frmariya810.github.io/
 
-**Ссылка на основной pull request:** [ВСТАВЬТЕ ССЫЛКУ]
+**Ссылка на основной pull request:** https://github.com/FrMariya810/FrMariya810.github.io/pull/1
 
 ---
 
