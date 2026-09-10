@@ -331,6 +331,7 @@ h3 {
 .item-content,
 .project-card,
 .skill-group,
+.interest-card,
 .education-card > div {
   padding: 1.3rem;
 }
@@ -351,6 +352,7 @@ h3 {
 .item-content p,
 .project-card > p,
 .skill-group > p,
+.interest-card > p,
 .education-card p {
   color: var(--text-muted);
 }
@@ -381,6 +383,12 @@ h3 {
 .project-card {
   display: flex;
   min-height: 300px;
+  flex-direction: column;
+}
+
+.interest-card {
+  display: flex;
+  min-height: 220px;
   flex-direction: column;
 }
 
